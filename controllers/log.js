@@ -1,5 +1,8 @@
 /*
 
+An example endpoint with all passing parameters will be 
+http://localhost:3003/logs?endDate=2020-01-18T07:30:58.156Z&startDate=2020-01-01T00:00:11.172Z&page=99
+
 Query Params:
 startDate: optional
 endDate: optional
