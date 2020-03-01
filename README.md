@@ -13,4 +13,5 @@ Installation and Run Steps:
 - API response contains following
   1. count ( count of returned items )
   2. logs (array of objects with keys date & log)
+- Static folder is the location to place the file example.txt for tests. Have placed a file there, you can replace it.
 - Have added details of all implementation, params etc in comments alongside code
