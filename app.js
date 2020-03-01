@@ -28,5 +28,5 @@ app.use('/logs', log);
 let port = 3003;
 
 app.listen(port, () => {
-  console.log('Server is up and running on port numner ' + port);
+  console.log('Server is up and running on port number ' + port);
 });

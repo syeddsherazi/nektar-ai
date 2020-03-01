@@ -10,4 +10,7 @@ Installation and Run Steps:
 - Server will run on port 3003
 - The endpoint to hit is http://localhost:3003/logs
 - Query params are startDate(optional), endDate(optional), pageNo(optional)
+- API response contains following
+  1. count ( count of returned items )
+  2. logs (array of objects with keys date & log)
 - Have added details of all implementation, params etc in comments alongside code
