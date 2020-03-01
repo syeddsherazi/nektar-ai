@@ -4,7 +4,7 @@ NODE BACKEND TASK FOR NEKTAR AI
 
 Installation and Run Steps:
 
-- You need to node installed on your local machine
+- You'll need to have node installed on your local machine
 - Clone the repo, and do npm installation by running => npm i
 - Start project => node app.js
 - Server will run on port 3003
